@@ -1,0 +1,26 @@
+{
+  "name": "@spcsp/toggle-text-case",
+  "version": "0.1.0",
+  "private": false,
+  "description": "",
+  "keywords": [
+    "StrokesPlus.net",
+    "clearscript",
+    "plugin",
+    "script",
+    "action"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Kevin Hill",
+    "email": "kevinkhill@pm.me",
+    "url": "https://kevinhill.codes"
+  },
+  "repository": {
+    "url": "https://github.com/spcsp/toggle-text-case"
+  },
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
